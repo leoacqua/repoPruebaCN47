@@ -1,5 +1,6 @@
+let saludo = "hola"
+let pregunta = "¿como estas?"
 let despedida = "Chau"
-
-let dinosaurios = "Esta en Talampaya"
-
 console.log(despedida);
+console.log(pregunta);
+console.log(saludo);
