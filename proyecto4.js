@@ -1,2 +1,4 @@
-let paula = 123
-console.log(paula);
+let nombre = paula
+console.log(nombre);
+let apellido = nunez
+console.log(apellido);
